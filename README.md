@@ -13,7 +13,7 @@ The tasks are ordered based on the priority as follows:
 
 Landing task, when switch 2 on tiva is pressed this task will run and Red led is on and display number 1 on 7 segment. 
 
-Take off when switch 1 on tiva is pressed this task will run and green led is on and number 2 on 7 segment
+Take off when switch 1 on tiva is pressed this task will run and green led is on and number 2 on 7 segment.
 
 Stable task with low priority and periodic task will run after take off or landing finished and display on 7 segment number 3.
 
